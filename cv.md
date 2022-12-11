@@ -11,14 +11,14 @@ Telegram: [@Timur_Gut](https://t.me/Timur_Gut)
 Discord RS School: Timur Gutov (@tmrgtv)  
 
 ## **About me**
-I work as a multimedia engineer in [ICL Services](https://icl-services.com/). I am engaged in the design and commissioning of conference rooms, meeting rooms, classrooms and classrooms, museums, trading floors, private houses. Programming Crestron, AMX, Kramer, Aten controllers and some KNX equipment. 
+I work as a multimedia engineer in [ICL Services](https://icl-services.com/). I am engaged in the design and commissioning of conference rooms, meeting rooms and classrooms, museums, trading floors, private houses. Programming Crestron, AMX, Kramer, Aten controllers and some KNX equipment. 
 
 I know a bit about Excel VBA, Power Query and Power BI. I know the SQL language at a basic level. I am also learning the Go language and I know fyne.io, excelize packages. Interested in applying front-end knowledge in multimedia equipment and smart homes. Probably learning programming is my hobby.
 
 ## **Education**
-2011. Engineer majoring in "Physics and technology of optical communication" at the Bashkir State University.
-2021. Completed the Power BI & Excel PRO course at Netology 
-2022. Took free courses in Go at [stepik.org](https://stepik.org/course/54403/syllabus) and [Yandex Practicum](https://practicum.yandex.ru/go-basics/)
+**2006-2011** Engineer majoring in "Physics and technology of optical communication" at the Bashkir State University.
+**2021** Completed the [Power BI & Excel PRO](https://netology.ru/programs/excelpbi) course at Netology. 
+**2022** Took free courses in Go at [stepik.org](https://stepik.org/course/54403/syllabus) and [Yandex Practicum](https://practicum.yandex.ru/go-basics/).
 
 ## **Example code from codewars**
 [Take a Ten Minutes Walk](https://www.codewars.com//kata/54da539698b8a2ad76000228/go)
