@@ -1,2 +1,2 @@
-#Timur Gutov
-![My photo](photo.jpg)
+# **Timur Gutov**
+![Engineer](photo.png)
