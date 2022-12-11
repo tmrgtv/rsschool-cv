@@ -16,8 +16,8 @@ I work as a multimedia engineer in [ICL Services](https://icl-services.com/). I 
 I know a bit about Excel VBA, Power Query and Power BI. I know the SQL language at a basic level. I am also learning the Go language and I know fyne.io, excelize packages. Interested in applying front-end knowledge in multimedia equipment and smart homes. Probably learning programming is my hobby.
 
 ## **Education**
-**2006-2011** Engineer majoring in "Physics and technology of optical communication" at the Bashkir State University.
-**2021** Completed the [Power BI & Excel PRO](https://netology.ru/programs/excelpbi) course at Netology. 
+**2006-2011** Engineer majoring in "Physics and technology of optical communication" at the Bashkir State University.  
+**2021** Completed the [Power BI & Excel PRO](https://netology.ru/programs/excelpbi) course at Netology.  
 **2022** Took free courses in Go at [stepik.org](https://stepik.org/course/54403/syllabus) and [Yandex Practicum](https://practicum.yandex.ru/go-basics/).
 
 ## **Example code from codewars**
