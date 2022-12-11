@@ -20,30 +20,6 @@
 <p><strong>2006-2011</strong> Engineer majoring in &quot;Physics and technology of optical communication&quot; at the Bashkir State University.<br><strong>2021</strong> Completed the <a href="https://netology.ru/programs/excelpbi">Power BI &amp; Excel PRO</a> course at Netology.<br><strong>2022</strong> Took free courses in Go at <a href="https://stepik.org/course/54403/syllabus">stepik.org</a> and <a href="https://practicum.yandex.ru/go-basics/">Yandex Practicum</a>.</p>
 <h2 id="example-code-from-codewars"><strong>Example code from codewars</strong></h2>
 <p><a href="https://www.codewars.com//kata/54da539698b8a2ad76000228/go">Take a Ten Minutes Walk</a></p>
-<pre><code class="lang-go"><span class="hljs-keyword">package</span> kata
-<span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">IsValidWalk</span><span class="hljs-params">(walk []<span class="hljs-keyword">rune</span>)</span> <span class="hljs-title">bool</span></span> {
-  <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(walk) != <span class="hljs-number">10</span> {
-    <span class="hljs-keyword">return</span> <span class="hljs-literal">false</span>
-  }
-  <span class="hljs-keyword">var</span> x,y <span class="hljs-keyword">int</span>
-  <span class="hljs-keyword">for</span> _,dir := <span class="hljs-keyword">range</span> walk {
-    <span class="hljs-keyword">switch</span> dir {
-      <span class="hljs-keyword">case</span> <span class="hljs-string">'n'</span>:
-        x += <span class="hljs-number">1</span>
-      <span class="hljs-keyword">case</span> <span class="hljs-string">'s'</span>:
-        x -= <span class="hljs-number">1</span>
-      <span class="hljs-keyword">case</span> <span class="hljs-string">'e'</span>:
-        y += <span class="hljs-number">1</span>
-      <span class="hljs-keyword">case</span> <span class="hljs-string">'w'</span>:
-        y -= <span class="hljs-number">1</span>
-    }
-  }
-  <span class="hljs-keyword">if</span> x == <span class="hljs-number">0</span> &amp;&amp; y == <span class="hljs-number">0</span> {
-    <span class="hljs-keyword">return</span> <span class="hljs-literal">true</span>
-  }
-  <span class="hljs-keyword">return</span> <span class="hljs-literal">false</span>
-}
-</code></pre>
 <p><a href="https://go.dev/play/p/JOI8LFZA2wb">Go Playground</a></p>
 <h2 id="my-project"><strong>My project</strong></h2>
 <p><a href="https://github.com/tmrgtv/spider">My project</a> is a golang package for work with API <a href="http://www.spiderproject.com/">&quot;Spider Project&quot;</a>. It can be used to integrate with databases.</p>
