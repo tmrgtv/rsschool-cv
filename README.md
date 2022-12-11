@@ -1,1 +1,1 @@
-https://tmrgtv.github.io/rsschool-cv/cv
+https://tmrgtv.github.io/rsschool-cv/
